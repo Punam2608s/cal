@@ -79,7 +79,7 @@ thead{
     
 }
 tbody{
-    color:antiquewhite;
+    color:aqua;
     font-size: 16px;
     text-indent: 21px;
     
@@ -89,17 +89,17 @@ tbody{
 }
 td:hover{
     background-color: brown;
-    color: azure;
+    color:black;
 }
 /* h1:hover{
     background-color: brown;
     color: blue;
 } */
 .container{
-    background-image: url(./Image/flowers-276014_1280.jpg);
-    background-size: 450PX 170px;
+    background-image: url(./Image/download.jpg);
+    background-size: 450PX 450px;
     background-repeat: no-repeat;
-    color: azure;
+    color:black;
     font-size: 16px;
     font-family: 'Segoe UI';
 }
